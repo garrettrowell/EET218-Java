@@ -1,0 +1,21 @@
+beer->abv%->calories /12oz
+Bud Light,4.2,110
+Budweiser,5,145
+Busch,4.6,133
+Busch Light,4.1,95
+Coors,5,148
+Coors Light,4.15,104
+Corona Extra,4.6,148
+Corona Light,4.5,109
+Dos Equis XX,4.7,149
+Guinness,4.2,125
+Heineken,5,160
+Heineken Light,3.5,99
+Labatt Blue,5,153
+Miller Lite,4.2,96
+Michelob,5,155
+Michelob Light,4.3,133
+Miller High Life,5.5,156
+Miller Light,4.2,96
+Natural Light,4.2,95
+Pabst,5,152
